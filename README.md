@@ -1,7 +1,7 @@
 # ofxImageHomography
 4-point image homography test for openframework
 
-![Histogram example]( https://github.com/bemoregt/ofxHistogramFeatures/blob/master/hist.png "exmaple")
+![Histogram example]( https://github.com/bemoregt/ofxImageHomography/blob/master/aa.png "exmaple")
 
 ### How TO
 - Move your mouse to warp.
