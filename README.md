@@ -19,6 +19,7 @@
 ### Next Plan
 - Detect 4 corners points from image.
 - Extract image ROI of Polygon.
+- Harris 4-Corner Detection. 
 
 ### Reference
 - Edited source from https://github.com/genekogan/ofxHomography.git
