@@ -1,4 +1,4 @@
-# ofxImageHomography
+# wwImageHomography
 4-point image homography test for openframework
 
 ![Homog example]( https://github.com/bemoregt/ofxImageHomography/blob/master/aa.png "exmaple")
